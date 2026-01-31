@@ -202,7 +202,7 @@ The project uses a custom `playwright.config.ts` with:
 ## 📦 Submission Files
 This submission includes:
 - Complete Playwright project with all test cases
-- Excel test case file with 40 documented test cases
+- Excel test case file with 36 documented test cases
 - GitHub repository with public access
 - All configuration files for easy execution
 

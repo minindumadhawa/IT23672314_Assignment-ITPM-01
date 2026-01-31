@@ -1,0 +1,22 @@
+{
+  "name": "singlish-to-sinhala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minindumadhawa/Singlish-to-Sinhala.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minindumadhawa/Singlish-to-Sinhala/issues"
+  },
+  "homepage": "https://github.com/minindumadhawa/Singlish-to-Sinhala#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.1.0"
+  }
+}

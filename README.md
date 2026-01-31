@@ -40,7 +40,7 @@ This project contains comprehensive automated testing for the SwiftTranslator we
 ### Installation Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/minindumadhawa/Singlish-to-Sinhala.git
+git clone https://github.com/minindumadhawa/IT23672314_Assignment-ITPM-01.git
 
 # 2. Navigate to project directory
 cd IT23672314_Assignment-ITPM-01
@@ -212,5 +212,5 @@ This submission includes:
 - **Student:** W M M DE SILVA
 - **IT Number:** IT23672314
 - **GitHub:** [/minindumadhawa](https://github.com/minindumadhawa)
-- **Repository:** [IT23672314_Assignment-ITPM-01](https://github.com/minindumadhawa/IT23672314_Assignment-ITPM-01)
+- **Repository:** [IT23672314_Assignment-ITPM-01](https://github.com/minindumadhawa/IT23672314_Assignment-ITPM-01.git)
 

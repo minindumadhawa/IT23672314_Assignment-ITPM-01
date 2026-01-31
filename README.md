@@ -2,7 +2,7 @@
 
 <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Logo" width="120"/>
 
-# 🎓 IT23844506 - ITPM Assignment 01: Playwright Testing Project
+# 🎓 IT23672314 - ITPM Assignment 01: Playwright Testing Project
 
 </div>
 
@@ -16,8 +16,8 @@
 ---
 
 ## 👨‍🎓 Student Information
-- **Name:** Madhawa Diyanath
-- **IT Number:** IT23844506
+- **Name:** W M M DE SILVA
+- **IT Number:** IT23672314
 - **Module:** Information Technology Project Management (IT3040)
 - **Assignment:** 01 - Playwright Testing Project
 - **Option:** Option 1 (Singlish to Sinhala)
@@ -26,15 +26,7 @@
 ---
 
 ## 🎯 Assignment Overview
-This project contains comprehensive automated testing for the SwiftTranslator web application using Playwright. It includes **40 test cases** covering all required categories from the assignment brief.
-
-### ✅ Requirements Met
-- **26 Positive Test Cases** (Requirement: 24+)
-- **12 Negative Test Cases** (Requirement: 10+)
-- **2 UI Test Cases** (Requirement: 1+)
-- **All 8 testing categories covered**
-- **Full Playwright automation implemented**
-- **Cross-browser testing support**
+This project contains comprehensive automated testing for the SwiftTranslator web application using Playwright. It includes **36 test cases** covering all required categories from the assignment brief.
 
 ---
 
@@ -48,10 +40,10 @@ This project contains comprehensive automated testing for the SwiftTranslator we
 ### Installation Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/madhawadiyanath/IT23844506_Assignment-ITPM-01.git
+git clone https://github.com/minindumadhawa/Singlish-to-Sinhala.git
 
 # 2. Navigate to project directory
-cd IT23844506_Assignment-ITPM-01
+cd IT23672314_Assignment-ITPM-01
 
 # 3. Install dependencies
 npm install
@@ -107,17 +99,16 @@ npx playwright test tests/ui/
 - **Informal Language:** Slang and colloquial phrasing
 
 ### Test Statistics
-- **Total Tests:** 40
-- **Positive Tests:** 26
-- **Negative Tests:** 12
+- **Total Tests:** 36
+- **Positive Tests:** 24
+- **Negative Tests:** 10
 - **UI Tests:** 2
-- **Success Rate:** 100% (when website is functional)
 
 ---
 
 ## 📁 Project Structure
 ```text
-IT23844506_Assignment-ITPM-01/
+IT23672314_Assignment-ITPM-01/
 ├── .github/
 ├── node_modules/
 ├── playwright-report/
@@ -125,7 +116,8 @@ IT23844506_Assignment-ITPM-01/
 │   ├── index.html
 │   └── test-results/
 ├── tests/
-│   └── example.spec.ts
+│   ├── example.spec.ts
+│   └── Singlish-to-Sinhala.spec.ts
 ├── .gitignore
 ├── package-lock.json
 ├── package.json
@@ -217,14 +209,8 @@ This submission includes:
 ---
 
 ## 📞 Contact & Support
-- **Student:** Madhawa Diyanath
-- **IT Number:** IT23844506
-- **GitHub:** [madhawadiyanath](https://github.com/madhawadiyanath)
-- **Repository:** [IT23844506_Assignment-ITPM-01](https://github.com/madhawadiyanath/IT23844506_Assignment-ITPM-01)
+- **Student:** W M M DE SILVA
+- **IT Number:** IT23672314
+- **GitHub:** [/minindumadhawa](https://github.com/minindumadhawa)
+- **Repository:** [IT23672314_Assignment-ITPM-01](https://github.com/minindumadhawa/IT23672314_Assignment-ITPM-01)
 
----
-
-<p align="center">
-  <b>✨ Good luck! ✨</b><br>
-  <i>For full marks, ensure your report is attached, all tests pass, and your code is well-commented and organized.</i>
-</p>
